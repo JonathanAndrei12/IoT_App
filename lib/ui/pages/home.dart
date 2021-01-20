@@ -145,7 +145,7 @@ class _HomePageState extends State<HomePage> {
                           ),
                           Text(
                             'Too Wet!', 
-                            style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold, color: Colors.red[300]),
+                            style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold, color: Colors.blue[300]),
                           )
                         ],
                       )
